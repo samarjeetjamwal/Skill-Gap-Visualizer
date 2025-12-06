@@ -1,0 +1,5 @@
+{
+  "name": "Skill Gap Visualizer",
+  "description": "An AI-powered tool to analyze your resume against target job roles, visualizing skill gaps and generating personalized learning paths.",
+  "requestFramePermissions": []
+}
